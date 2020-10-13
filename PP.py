@@ -41,7 +41,6 @@ def pebble_predictor(**pars):
     OmegaK = np.sqrt(Grav*Mstar/rgrid**3.) # Keplerian frequency
     rhog = SigmaGas*OmegaK / (np.sqrt(2.*np.pi)*cs) # midplane gas density
     pg = rhog*cs**2. # gas pressure
-    lmfp = 2.34*m_p/(rhog*AH2) # gas mean-free path
     
     rInt = np.zeros(np.size(rgrid)+1) # grid cell interfaces estimate (needed for pressure gradient calculation)
     rInt[0] = 1.5*rgrid[0]-0.5*rgrid[1]
