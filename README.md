@@ -14,3 +14,5 @@ This code is licensed under the GNU General Public License v3. Among other thing
 CREDITS
 
 If you use this code for your work, please cite the corresponding paper, this github repository and/or the corresponding Zenodo DOI.
+
+[![DOI](https://zenodo.org/badge/300679267.svg)](https://zenodo.org/badge/latestdoi/300679267)
