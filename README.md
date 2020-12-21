@@ -13,4 +13,4 @@ This code is licensed under the GNU General Public License v3. Among other thing
 
 CREDITS
 
-If you use this code for your work, please cite this github repository and the corresponding paper (once it is out :-).
+If you use this code for your work, please cite the corresponding paper, this github repository and/or the corresponding Zenodo DOI.
