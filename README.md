@@ -1,7 +1,7 @@
 # pebble-predictor
 Predicts the flux averaged Stokes number and pebble flux in a protoplanetary disk without substructure
 
-The corresponding paper is Drążkowska, Stammler, & Birnstiel, accepted for publication in A&A.
+The corresponding paper is [Drążkowska, Stammler, & Birnstiel (2021), accepted for publication in A&A](https://ui.adsabs.harvard.edu/abs/2021arXiv210101728D/abstract).
 
 HOW TO USE THE CODE
 
